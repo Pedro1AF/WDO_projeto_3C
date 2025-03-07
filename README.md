@@ -16,12 +16,16 @@ Nosso banco de dados foi feito na proposta de atender o cliente da forma mais ra
 
 </div>
 <br>
-<img src="readme-config/bc-1.png">
+<img src="readme-config/D-ER.png">
+<img src="readme-config/D-back.png">
+<img src="readme-config/D-final.png">
 
 ## Design  <img src="readme-config/WDO.png" wight="20px" height="20px">
 
 <div style="font-size: 18px;">
 Nosso design foi pensado para atender todos os tipos de clientes, desde mais velhos a ate mais novos, com cores e paletras agradaveis visualmente podemos atrair todo o tipo de publico para o nosso site. O design dele foi pesando tambem para ser de facil acesso e agil, tendo funções bem destacadas e diretas, dificilmente ficaram perdidos no nosso site!
+
+Nosso designe foia tualizado e foi adicionado mais paginas para a melhor explicação do projeto!
 </div>
 <br>
 <img src="readme-config/1.png">

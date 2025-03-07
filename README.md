@@ -25,7 +25,7 @@ Nosso banco de dados foi feito na proposta de atender o cliente da forma mais ra
 <div style="font-size: 18px;">
 Nosso design foi pensado para atender todos os tipos de clientes, desde mais velhos a ate mais novos, com cores e paletras agradaveis visualmente podemos atrair todo o tipo de publico para o nosso site. O design dele foi pesando tambem para ser de facil acesso e agil, tendo funções bem destacadas e diretas, dificilmente ficaram perdidos no nosso site!
 
-Nosso designe foia tualizado e foi adicionado mais paginas para a melhor explicação do projeto!
+Modificamos o design do protótipo para acrescentar mais páginas pois estava faltando algumas informações, colocamos mais implementos e modificamos algumas páginas que estavam prontas, modificamos a cor que estava muito infantil e a tipografia do site, deixamos mais organizado
 </div>
 <br>
 <img src="readme-config/1.png">

@@ -67,4 +67,40 @@ Nosso design foi pensado para atender todos os tipos de clientes, desde mais vel
 <br>
 
 <img src="readme-config/15.png">
+<br>
 
+<img src="readme-config/16.png">
+<br>
+
+<img src="readme-config/17.png">
+<br>
+
+<img src="readme-config/18.png">
+<br>
+
+<img src="readme-config/19.png">
+<br>
+
+<img src="readme-config/20.png">
+<br>
+
+<img src="readme-config/21.png">
+<br>
+
+<img src="readme-config/22.png">
+<br>
+
+<img src="readme-config/23.png">
+<br>
+
+<img src="readme-config/24.png">
+<br>
+
+<img src="readme-config/25.png">
+<br>
+
+<img src="readme-config/26.png">
+<br>
+
+<img src="readme-config/27.png">
+<br>

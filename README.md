@@ -20,6 +20,8 @@ Nosso banco de dados foi feito na proposta de atender o cliente da forma mais ra
 <img src="readme-config/D-back.png">
 <img src="readme-config/D-final.png">
 
+--------------------
+
 ## Design  <img src="readme-config/WDO.png" wight="20px" height="20px">
 
 <div style="font-size: 18px;">

@@ -1,0 +1,40 @@
+Descrição da entradas de variáveis
+
+nome: 'Pedro Fernandes Almeida'
+cpf: '147.258.369-56'
+genero: Masculino, Femenino, Outros
+data_de_nascimento: 14/04/2008
+telefone_celular: (41) 9915-5978
+email: 'pedro.almeida32@gmail.com'
+cadastrar_senha: 'pedrinho002'
+senha: 'pedrinho002'
+id_usuario: 19525835745
+tipo_de_usuario: cliente, designer
+endereco: 'rua maria da luz nacimento 651'
+data_criacao: 23/09/20204
+biografia: 'Sou de São Paulo gosto de cachorro, e sou programador e designer'
+portifolio: 'Trabalhei com grandes empresas'
+status_da_conta: online, offline
+foto_perfil: https://encurtador.com.br/281s2
+id_chat: 12365478945
+usuario: 'pedro'
+mensagens: 'Boa Tarde gostaria de marca uma reunião'
+horario_da_mensagem: 11:22
+status_da_mensagem: lida, Não lida
+tipo_da_mensagem: texto, foto
+id_desing: 02212254498
+criador: 'Pedro'
+titulo: 'loud'
+descricao: 'Essa logo é muito bonita e foi produzida por mim'
+categoria: logo
+preco: 1000.00
+tags: logo, cor, aparecencia
+data_criação: 12/03/2025
+status: vendido, esgotado, não vendido
+url: www.logo-perfeita
+id_pedido: 95750365841
+cliente: João Garcia
+forma_de_pagamento: pix, cartão de debito ou crédito, boleto
+data_do_pedido: 20/03/2025
+link_para_download: https//www.dowload-logo
+comprovante: https//imagen-comprovante_pago
